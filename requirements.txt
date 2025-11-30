@@ -1,0 +1,6 @@
+google-adk
+python-dotenv
+google-generativeai
+# Add SDKs for Amadeus and Expedia if available, otherwise use 'requests'
+requests
+PyYAML
